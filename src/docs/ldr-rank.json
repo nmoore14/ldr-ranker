@@ -1,0 +1,212 @@
+{
+  "ldr": {
+    "shows": [
+      {
+        "id": 0,
+        "title": "Sonnie's Edge",
+        "description": "In a dystopian cyberpunk future, a scarred and traumatized young woman who partakes in gruesome death matches where engineered beasts mercilessly tear each other apart for sport to entertain the sadistic, rich and powerful is seduced by the mistress of a sinister man who bet on her beast.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {
+            "user": "nick",
+            "comment": "This is by far my favorite episode!"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Three Robots",
+        "description": "Long after the fall of humanity, three robots embark on a sightseeing tour of a post-apocalyptic city",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [{}]
+      },
+      {
+        "id": 2,
+        "title": "The Witness",
+        "description": "After seeing a brutal murder, a woman flees from the killer through the streets of a surreal city.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Suits",
+        "description": "A community of farmers use their homemade mechs to defend their families from an alien invasion.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Sucker of Souls",
+        "description": "Unleashed by an archaeological dig, a bloodthirsty demon battles a team of mercenaries armed with... cats?",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 5,
+        "title": "When the Yogurt Took Over",
+        "description": "After scientists accidentally breed super-intelligent yogurt, it soon hungers for world domination.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Beyond the Aquila Rift",
+        "description": "Awakening after traveling light years off course, a ship's crew struggles to discover just how far they've come.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Good Hunting",
+        "description": "The son of a spirit hunter forges a bond with a shape-shifting huli jing.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 8,
+        "title": "The Dump",
+        "description": "Ugly Dave calls the garbage dump home, and he's not about to let some city slicker take it away from him.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Shape-Shifters",
+        "description": "Deep in Afghanistan, two Marines with supernatural powers face a threat from one of their own kind.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Helping Hand",
+        "description": "Stranded in orbit, an astronaut must choose between life and limb before her oxygen runs out.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Fish Night",
+        "description": "After their car breaks down in the desert, two salesmen take a dreamlike voyage to the dawn of time.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Lucky 13",
+        "description": "",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Zima Blue",
+        "description": "The renowned artist Zima recounts his mysterious past and rise to fame before unveiling his final work.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Blind Spot",
+        "description": "A gang of cyborg thieves stage a high-speed heist of a heavily armored convoy.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Ice Age",
+        "description": "A young couple moves into an apartment and finds a lost civilization inside their antique freezer.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Alternate Histories",
+        "description": "Want to see Hitler die in a variety of comically fantastic ways? Now you can. Welcome to Multiversity!",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      },
+      {
+        "id": 17,
+        "title": "The Secret War",
+        "description": "Elite units of the Red Army fight an unholy evil deep in the ancient forests of Siberia.",
+        "total-votes": 0,
+        "up": 0,
+        "down": 0,
+        "comments": [
+          {}
+        ]
+      }
+    ],
+    "users": [
+      {
+        "username": "nick",
+        "date-joined": "06-20-2019",
+        "accepted": true
+      }
+    ]
+  }
+}
