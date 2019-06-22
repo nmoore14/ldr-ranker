@@ -6,7 +6,7 @@
         "title": "Sonnie's Edge",
         "description": "In a dystopian cyberpunk future, a scarred and traumatized young woman who partakes in gruesome death matches where engineered beasts mercilessly tear each other apart for sport to entertain the sadistic, rich and powerful is seduced by the mistress of a sinister man who bet on her beast.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BODRiMDQ2ZWUtZmMwMy00MTc4LWE5MGMtMzZlNjI4MTNiNGVmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -21,7 +21,7 @@
         "title": "Three Robots",
         "description": "Long after the fall of humanity, three robots embark on a sightseeing tour of a post-apocalyptic city",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWRhMzA5NDItYzAwZC00YWUzLThmNDQtYjM4ZmMzYzBhOTFiXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [{}]
@@ -31,7 +31,7 @@
         "title": "The Witness",
         "description": "After seeing a brutal murder, a woman flees from the killer through the streets of a surreal city.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmFkYjc2MzUtMWI0Zi00ODJlLTljYjktMWM2NWMxZmZhNGJiXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -43,7 +43,7 @@
         "title": "Suits",
         "description": "A community of farmers use their homemade mechs to defend their families from an alien invasion.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWQ5YmI4OTItMWVjMC00M2Q2LWExNTktYWRhOWIyYTEzMGYzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -55,7 +55,7 @@
         "title": "Sucker of Souls",
         "description": "Unleashed by an archaeological dig, a bloodthirsty demon battles a team of mercenaries armed with... cats?",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGJkODRmZTEtZTc0Mi00MmI4LWE4MTktMWJiMDJiNzdkYmQwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -67,7 +67,7 @@
         "title": "When the Yogurt Took Over",
         "description": "After scientists accidentally breed super-intelligent yogurt, it soon hungers for world domination.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWFkMDhiYWYtYjQwNS00NThmLWE2ODAtYzcwMDg5YzA0OTBjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -79,7 +79,7 @@
         "title": "Beyond the Aquila Rift",
         "description": "Awakening after traveling light years off course, a ship's crew struggles to discover just how far they've come.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjUyN2VkNTktY2M1My00ZjNlLWJlMzMtYWUzNGQ2NzFmNTA0XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -91,7 +91,7 @@
         "title": "Good Hunting",
         "description": "The son of a spirit hunter forges a bond with a shape-shifting huli jing.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkwNGU5ZWEtNDA2Mi00ZjY3LWE2MzctOTFkMDlhZDgwZmVkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -103,7 +103,7 @@
         "title": "The Dump",
         "description": "Ugly Dave calls the garbage dump home, and he's not about to let some city slicker take it away from him.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjQ4NjIyYjYtOGI0ZC00ODNlLWJhMTktNzk5ZDJmMjMyOGVmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -115,7 +115,7 @@
         "title": "Shape-Shifters",
         "description": "Deep in Afghanistan, two Marines with supernatural powers face a threat from one of their own kind.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzBmOGU5NzEtNDU3MC00NDk4LTliMjctZjI5MDI1ZjE2N2Q3XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -127,7 +127,7 @@
         "title": "Helping Hand",
         "description": "Stranded in orbit, an astronaut must choose between life and limb before her oxygen runs out.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2VkYTczMjYtZjg0MC00OGJhLWFmNzUtMDljMzNiZWZmY2M2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -139,7 +139,7 @@
         "title": "Fish Night",
         "description": "After their car breaks down in the desert, two salesmen take a dreamlike voyage to the dawn of time.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BODg1NDZkNzgtZDgxYS00Mzk3LWI4MjEtNjYwYTA1M2Q1ZmYxXkEyXkFqcGdeQXVyMjI4MDA4NzI@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -151,7 +151,7 @@
         "title": "Lucky 13",
         "description": "After the drop-ship Lucky 13 lost two crews, no pilot would fly her... but rookies don't get a choice.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2UyNWM2YWEtNjRmMS00OWVkLWFhNzctYzg0NDEzNWQwNWQ1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -163,7 +163,7 @@
         "title": "Zima Blue",
         "description": "The renowned artist Zima recounts his mysterious past and rise to fame before unveiling his final work.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg2MDE4NDctOGZhYS00YzQ4LTlkOWUtN2VkOWFkYmUyODE2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -175,7 +175,7 @@
         "title": "Blind Spot",
         "description": "A gang of cyborg thieves stage a high-speed heist of a heavily armored convoy.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjRlY2UzNTEtYmQ3OC00M2JmLWE2M2ItNmFkZWU4ZmRlZGZhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -187,7 +187,7 @@
         "title": "Ice Age",
         "description": "A young couple moves into an apartment and finds a lost civilization inside their antique freezer.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BODA5ZmIwOWItYzMxYy00OGMzLWI1Y2ItNTkxYzJmZWY3YzZhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -199,7 +199,7 @@
         "title": "Alternate Histories",
         "description": "Want to see Hitler die in a variety of comically fantastic ways? Now you can. Welcome to Multiversity!",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDcyZTQwNTgtY2UxMy00ZGJkLThiZjUtNTFhZDc2NjE0MmI5XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [
@@ -211,7 +211,7 @@
         "title": "The Secret War",
         "description": "Elite units of the Red Army fight an unholy evil deep in the ancient forests of Siberia.",
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjZjN2UzYzYtYmQ1Ni00ZjQzLTg3MjktZGYxZTAxMTE5YjRmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-        "total-votes": 0,
+        "totalVotes": 0,
         "up": 0,
         "down": 0,
         "comments": [

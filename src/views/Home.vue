@@ -1,5 +1,7 @@
 <template>
-  <div class="home">
+  <div
+    class="container mx-auto"
+  >
     <data-reader></data-reader>
   </div>
 </template>
