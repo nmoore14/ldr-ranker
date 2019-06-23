@@ -5,25 +5,27 @@
     <div
       v-for="(show, index) in ldr_data.ldr.shows"
       :key="index"
-      class="max-w-sm rounded overflow-hidden shadow-lg m-4 card"
+      class="max-w-sm rounded shadow-lg m-4 card"
     >
       <img class="w-full" :src="show.imageUrl" :alt="show.title + ' poster image'">
       <div class="px-6 py-4">
         <h1 class="font-sans font-light text-2xl">{{ show.title }}</h1>
-        <p class="text-gray-700 text-base">
-          {{ show.description}}
+        <p class="text-gray-700 text-base h-64">
+          {{ show.description }}
         </p>
       </div>
       <div>
         <h3 class="font-sans font-light text-center text-3xl">{{ show.totalVotes }}</h3>
-        <p class="font-sans font-light text-center text-xl -mt-3">Vote Rating</p>
+        <p class="font-sans font-light text-center text-xl -mt-3 mb-4">Vote Rating</p>
       </div>
-      <div class="inline-flex">
-        <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-l">
-          Like
+      <div
+        class="flex flex-row w-full justify-center mb-4"
+      >
+        <button class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4">
+          Button
         </button>
-        <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-r">
-          Dislike
+        <button class="bg-red-400 hover:bg-red-700 text-white font-bold py-2 px-4">
+          Button
         </button>
       </div>
     </div>
