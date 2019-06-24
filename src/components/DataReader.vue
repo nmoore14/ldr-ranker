@@ -15,17 +15,20 @@
         </p>
       </div>
       <div>
-        <h3 class="font-sans font-light text-center text-3xl">{{ show.totalVotes }}</h3>
+        <h3 class="font-sans font-light text-center text-3xl">
+          <span class="text-green-800">{{ show.up }}</span>&nbsp;/&nbsp;
+          <span class="text-red-700">{{ show.down }}</span>
+        </h3>
         <p class="font-sans font-light text-center text-xl -mt-3 mb-4">Vote Rating</p>
       </div>
       <div
         class="flex flex-row w-full justify-center mb-4"
       >
         <button class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4">
-          Button
+          Like
         </button>
         <button class="bg-red-400 hover:bg-red-700 text-white font-bold py-2 px-4">
-          Button
+          Dislike
         </button>
       </div>
     </div>
