@@ -24,10 +24,16 @@
       <div
         class="flex flex-row w-full justify-center mb-4"
       >
-        <button class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4">
+        <button 
+          class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4"
+          @click="addLike(index)"
+        >
           Like
         </button>
-        <button class="bg-red-400 hover:bg-red-700 text-white font-bold py-2 px-4">
+        <button 
+          class="bg-red-400 hover:bg-red-700 text-white font-bold py-2 px-4"
+          @click="addDislike(index)"
+        >
           Dislike
         </button>
       </div>
@@ -44,6 +50,14 @@ export default {
     return {
       ldr_data: LDR,
     };
+  },
+  methods: {
+    addLike(index) {
+      this.ldr_data.ldr.shows[index].up += 1;
+    },
+    addDislike(index) {
+      this.ldr_data.ldr.shows[index].down += 1;
+    }
   },
 };
 </script>
