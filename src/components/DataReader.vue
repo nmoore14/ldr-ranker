@@ -15,22 +15,25 @@
         </p>
       </div>
       <div>
-        <h3 class="font-sans font-light text-center text-3xl">
+        <h2>
+          {{ show.ratio }}
+        </h2>
+        <h4 class="font-sans font-light text-center text-3xl">
           <span class="text-green-800">{{ show.up }}</span>&nbsp;/&nbsp;
           <span class="text-red-700">{{ show.down }}</span>
-        </h3>
+        </h4>
         <p class="font-sans font-light text-center text-xl -mt-3 mb-4">Vote Rating</p>
       </div>
       <div
         class="flex flex-row w-full justify-center mb-4"
       >
-        <button 
+        <button
           class="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4"
           @click="addLike(index)"
         >
           Like
         </button>
-        <button 
+        <button
           class="bg-red-400 hover:bg-red-700 text-white font-bold py-2 px-4"
           @click="addDislike(index)"
         >
@@ -54,10 +57,16 @@ export default {
   methods: {
     addLike(index) {
       this.ldr_data.ldr.shows[index].up += 1;
+      this.updateRatio(index);
     },
     addDislike(index) {
       this.ldr_data.ldr.shows[index].down += 1;
-    }
+      this.updateRatio(index);
+    },
+    updateRatio(index) {
+      this.ldr_data.ldr.shows[index].ratio = this.ldr_data.ldr.shows[index].up
+        / this.ldr_data.ldr.shows[index].down;
+    },
   },
 };
 </script>
