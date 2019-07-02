@@ -15,14 +15,14 @@
         </p>
       </div>
       <div>
-        <h2>
+        <h2 class="font-sans font-hairline text-center text-5xl">
           {{ show.ratio }}
         </h2>
+        <p class="font-sans font-light text-center text-xl -mt-3 mb-4">Vote Rating</p>
         <h4 class="font-sans font-light text-center text-3xl">
           <span class="text-green-800">{{ show.up }}</span>&nbsp;/&nbsp;
           <span class="text-red-700">{{ show.down }}</span>
         </h4>
-        <p class="font-sans font-light text-center text-xl -mt-3 mb-4">Vote Rating</p>
       </div>
       <div
         class="flex flex-row w-full justify-center mb-4"
@@ -64,8 +64,8 @@ export default {
       this.updateRatio(index);
     },
     updateRatio(index) {
-      this.ldr_data.ldr.shows[index].ratio = this.ldr_data.ldr.shows[index].up
-        / this.ldr_data.ldr.shows[index].down;
+      this.ldr_data.ldr.shows[index].ratio = (this.ldr_data.ldr.shows[index].up
+        / this.ldr_data.ldr.shows[index].down).toFixed(2);
     },
   },
 };
@@ -73,7 +73,7 @@ export default {
 
 <style>
   .card {
-    background:#b8b8b8;
+    background:#ffffff;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

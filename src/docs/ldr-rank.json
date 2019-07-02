@@ -9,6 +9,7 @@
         "totalVotes": 0,
         "up": 0,
         "down": 0,
+        "ratio": 0,
         "comments": [
           {
             "user": "nick",
